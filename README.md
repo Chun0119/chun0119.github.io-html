@@ -19,19 +19,12 @@ https://chun0119.github.io/
 
 Archived — replaced by the current portfolio website.
 
-## Credits:
+## Credits
 
-Website Templates:
-	Forty by HTML5 UP
-	html5up.net | AJ | aj@lkn.io | @ajlkn
-
-Demo Images:
-	Unsplash (unsplash.com)
-
-Icons:
-	Font Awesome (fontawesome.io)
-
-Other:
-	jQuery (jquery.com)
-	Scrollex (github.com/ajlkn/jquery.scrollex)
-	Responsive Tools (github.com/ajlkn/responsive-tools)
+- **Website Template:** [Forty by HTML5 UP](https://html5up.net) — AJ (@ajlkn)
+- **Demo Images:** [Unsplash](https://unsplash.com)
+- **Icons:** [Font Awesome](https://fontawesome.io)
+- **Other Libraries & Tools:**
+  - [jQuery](https://jquery.com)
+  - [Scrollex](https://github.com/ajlkn/jquery.scrollex)
+  - [Responsive Tools](https://github.com/ajlkn/responsive-tools)
